@@ -1,0 +1,64 @@
+.contact {
+    max-width: 75rem;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: left; /* Align text to the left */
+    background-color: rgb(30,30,30);
+    color: white;
+}
+
+.contact h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: white;
+    text-align: center; /* Center the heading */
+}
+
+.contact p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    color: #ddd;
+    text-align: center; /* Center the introductory text */
+}
+
+.contact-details {
+    display: flex;
+    flex-direction: column; /* Arrange items in a single column */
+    align-items: flex-start; /* Align items to the start */
+    gap: 1.5rem; /* Add space between items */
+    margin-left: 8rem; /* Add some margin to the left */
+}
+
+.contact-item {
+    color: #ccc;
+}
+
+.contact-item h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+    color: #aaa;
+}
+
+.contact-item p {
+    font-size: 1rem;
+    margin: 0;
+    word-wrap: break-word;
+}
+
+.social-icons {
+    display: flex;
+    gap: 1rem;
+    margin-top: 0.5rem;
+}
+
+.social-icons img {
+    width: 40px; /* Increase the size of the icons */
+    height: 40px;
+    filter: brightness(0.7) invert(1);
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.social-icons img:hover {
+    filter: brightness(1);
+    transform: scale(1.1);
+}
