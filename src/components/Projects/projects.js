@@ -12,7 +12,7 @@ const Projects = () => {
       <p>Here is a compilation of projects I've undertaken both as part of my academic coursework and during my personal time.</p>
       <div className="projects-grid">
         <div className="project-card">
-        <a href="https://github.com/saipranathi02/dr" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/saipranathi02/DiabeticRetinopathy" target="_blank" rel="noopener noreferrer">
           <img src={pythonIcon} alt="Diabetic Retinopathy Detection" />
           <p>Diabetic Retinopathy Detection</p>
         </a>
