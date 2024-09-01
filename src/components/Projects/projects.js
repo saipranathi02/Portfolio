@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="project-card">
         <a href="https://github.com/saipranathi02/DiabeticRetinopathy" target="_blank" rel="noopener noreferrer">
           <img src={pythonIcon} alt="Diabetic Retinopathy Detection" />
-          <p>Diabetic Retinopathy Detection</p>
+          <p>Diabetic Retinopathy Detection </p>
         </a>
         </div>
         <div className="project-card">
