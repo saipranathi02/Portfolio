@@ -26,7 +26,7 @@ const About = () => {
             </div>
             <div className="experience-item">
               <h3><i>Experian - Associate Product Engineer (Intern)</i></h3>
-              <span className="date">Nov 2023 - Present</span>
+              <span className="date">Nov 2023 - July 2024</span>
               <ul>
                 <li>Actively engaged in the Experian team as an intern, with a focus on developing skills in Java programming, Springboot.</li>
                 <li>Spearheading React-based UI development to automate and optimize API call processes, enhancing team productivity and user experience.</li>

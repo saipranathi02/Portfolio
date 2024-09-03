@@ -19,7 +19,7 @@ const Contact = () => {
         </div>
         <div className="contact-item">
           <h2>Phone</h2>
-          <p>9494480163</p>
+          <p>+1(838)433-7376</p>
         </div>
         <div className="contact-item">
           <h2>Socials</h2>
