@@ -15,7 +15,7 @@ const Contact = () => {
         </div>
         <div className="contact-item">
           <h2>Location</h2>
-          <p>Hyderabad, India</p>
+          <p>New York, USA</p>
         </div>
         <div className="contact-item">
           <h2>Phone</h2>
